@@ -28,7 +28,7 @@ all results are saved in "Results" folder.
 
 licence and citation:
 
-for licence and citation use fellow the publication copyright.
+for licence and citation use follow the publication copyright.
 
 
 
