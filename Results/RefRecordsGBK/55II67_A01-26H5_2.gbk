@@ -1,0 +1,68 @@
+LOCUS       NR_042482               1426 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Ensifer adhaerens strain LMG 20216 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   NR_042482
+VERSION     NR_042482.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Ensifer adhaerens (Sinorhizobium morelense)
+  ORGANISM  Ensifer adhaerens
+            Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+            Rhizobiaceae; Sinorhizobium/Ensifer group; Ensifer.
+REFERENCE   1
+  AUTHORS   Martens,M., Delaere,M., Coopman,R., De Vos,P., Gillis,M. and
+            Willems,A.
+  TITLE     Multilocus sequence analysis of Ensifer and related taxa
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 57 (PT 3), 489-503 (2007)
+   PUBMED   17329774
+REFERENCE   2  (bases 1 to 1426)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2011) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1426)
+  AUTHORS   Martens,M.G.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2006) Martens M.G.Y., Laboratory of Microbiology,
+            Faculty of Science, University Gent, Ledeganckstraat 35, B-9000,
+            BELGIUM
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AM181733.
+FEATURES             Location/Qualifiers
+     source          1..1426
+                     /organism="Ensifer adhaerens"
+                     /mol_type="rRNA"
+                     /strain="LMG 20216"
+                     /culture_collection="LMG:20216"
+                     /db_xref="taxon:106592"
+                     /note="genomovar: C"
+     rRNA            <1..>1426
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gcggcaggct taacacatgc aagtcgagcg ccccgcaagg ggagcggcag acgggtgagt
+       61 aacgcgtggg aatctaccct tttctacgga ataacgcagg gaaacttgtg ctaataccgt
+      121 atacgccctt cgggggaaag atttatcggg aaaggatgag cccgcgttgg attagctagt
+      181 tggtggggta aaggcctacc aaggcgacga tccatagctg gtctgagagg atgatcagcc
+      241 acattgggac tgagacacgg cccaaactcc tacgggaggc agcagtgggg aatattggac
+      301 aatgggcgca agcctgatcc agccatgccg cgtgagtgat gaaggcccta gggttgtaaa
+      361 gctctttcac cggtgaagat aatgacggta accggagaag aagccccggc taacttcgtg
+      421 ccagcagccg cggtaatacg aagggggcta gcgttgttcg gaattactgg gcgtaaagcg
+      481 cacgtaggcg gacatttaag tcaggggtga aatcccgggg ctcaaccccg gaactgcctt
+      541 tgatactggg tgtctagagt atggaagagg tgagtggaat tccgagtgta gaggtgaaat
+      601 tcgtagatat tcggaggaac accagtggcg aaggcggctc actggtccat tactgacgct
+      661 gaggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca cgccgtaaac
+      721 gatgaatgtt agccgtcggg cagtttactg ttcggtggcg cagctaacgc attaaacatt
+      781 ccgcctgggg agtacggtcg caagattaaa actcaaagga attgacgggg gcccgcacaa
+      841 gcggtggagc atgtggttta attcgaagca acgcgcagaa ccttaccagc ccttgacatc
+      901 ccgatcgcgg attacggaga cgttttcctt cagttcggct ggatcggaga caggtgctgc
+      961 atggctgtcg tcagctcgtg tcgtgagatg ttgggttaag tcccgcaacg agcgcaaccc
+     1021 tcgcccttag ttgccagcat ttagttgggc actctaaggg gactgccggt gataagccga
+     1081 gaggaaggtg gggatgacgt caagtcctca tggcccttac gggctgggct acacacgtgc
+     1141 tacaatggtg gtgacagtgg gcagcgagac cgcgaggtcg agctaatctc caaaagccat
+     1201 ctcagttcgg attgcactct gcaactcgag tgcatgaagt tggaatcgct agtaatcgca
+     1261 gatcagcatg ctgcggtgaa tacgttcccg ggccttgtac acaccgcccg tcacaccatg
+     1321 ggagttggtt ctacccgaag gtagtgcgct aaccgcaagg aggcagctaa ccacggtagg
+     1381 gtcagcgact ggggtgaagt cgtaacaagg tagccgtagg ggaacc
+//
+

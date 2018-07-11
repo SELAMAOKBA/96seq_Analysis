@@ -1,0 +1,6 @@
+list_Alginate_B
+['Ensifer', 'Buttiauxella']
+list_Agarose_B
+['Streptomyces']
+list_Plates_B
+['Kocuria']

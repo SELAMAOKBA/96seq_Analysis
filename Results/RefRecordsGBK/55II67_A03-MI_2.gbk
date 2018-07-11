@@ -1,0 +1,66 @@
+LOCUS       NR_116744               1472 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Kocuria atrinae strain P30 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   NR_116744
+VERSION     NR_116744.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Kocuria atrinae
+  ORGANISM  Kocuria atrinae
+            Bacteria; Actinobacteria; Micrococcales; Micrococcaceae; Kocuria.
+REFERENCE   1  (bases 1 to 1472)
+  AUTHORS   Park,E.J., Kim,M.S., Roh,S.W., Jung,M.J. and Bae,J.W.
+  TITLE     Kocuria atrinae sp. nov., isolated from traditional Korean
+            fermented seafood
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 60 (PT 4), 914-918 (2010)
+   PUBMED   19661502
+REFERENCE   2  (bases 1 to 1472)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2014) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1472)
+  AUTHORS   Park,E.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2009) BRC, KRIBB, 52 Eoeun-dong Yuseong-gu,
+            Daejeon 305-333, South Korea
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to FJ607311:1-1472.
+FEATURES             Location/Qualifiers
+     source          1..1472
+                     /organism="Kocuria atrinae"
+                     /mol_type="rRNA"
+                     /strain="P30"
+                     /isolation_source="Korean fermented seafood"
+                     /db_xref="taxon:592377"
+     rRNA            <1..>1472
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tctggctcag gacgaacgct ggcggcgtgc ttaacacatg caagtcgaac gatgaagctc
+       61 cagcttgctg gggtggatta gtggcgaacg ggtgagtaat acgtgagtaa cctgcccttg
+      121 actctgggat aagcctggga aactgggtct aatactggat actacacatt ctcgcatggg
+      181 ggtgtgtgga aagggtttta ctggttttgg atgggctcac ggcctatcag cttgttggtg
+      241 gggtaatggc ctaccaaggc gacgacgggt agccggcctg agagggtgac cggccacact
+      301 gggactgaga cacggcccag actcctacgg gaggcagcag tggggaatat tgcacaatgg
+      361 gcgaaagcct gatgcagcga cgccgcgtga gggatgacgg ccttcgggtt gtaaacctct
+      421 ttcagcacgg aagaagcgaa agtgacggta cgtgcagaag aagcgccggc taactacgtg
+      481 ccagcagccg cggtaatacg tagggcgcaa gcgttgtccg gaattattgg gcgtaaagag
+      541 ctcgtaggcg gtttgtcgcg tctgctgtga aagcccgggg cttaaccccg tggtgtgcag
+      601 tgggtacggg cagactagag tgcagtaggg gagactggaa ttcctggtgt agcggtgaaa
+      661 tgcgcagata tcaggaggaa caccgatggc gaaggcaggt ctctgggctg ttactgacgc
+      721 tgaggagcga aagcatgggg agcgaacagg attagatacc ctggtagtcc atgccgtaaa
+      781 cgttgggcac taggtgtggg ggacattcca cgttttccgc gccgtagcta acgcattaag
+      841 tgccccgcct ggggagtacg gccgcaaggc taaaactcaa aggaattgac gggggcccgc
+      901 acaagcggcg gagcatgcgg attaattcga tgcaacgcga agaaccttac caaggcttga
+      961 catacaccag accggtccag agatggtcct tcccctttgg ggttggtgta caggtggtgc
+     1021 atggttgtcg tcagctcgtg tcgtgagatg ttgggttaag tcccgcaacg agcgcaaccc
+     1081 tcgttctatg ttgccagcac gtgatggtgg ggactcatag gagactgccg gggtcaactc
+     1141 ggaggaaggt ggggatgacg tcaaatcatc atgcccctta tgtcttgggc ttcacgcatg
+     1201 ctacaatggc cggtacaatg ggttgcgata ccgtgaggtg gagctaatcc caaaaagctg
+     1261 gtctcagttc ggatcgtggt ctgcaactcg accacgtgaa gtcggagtcg ctagtaatcg
+     1321 cagatcagca acgctgcggt gaatacgttc ccgggccttg tacacaccgc ccgtcaagtc
+     1381 acgaaagttg gtaacacccg aagccggtgg cctaaccctt gtggggggag ccgtcgaagg
+     1441 tgggactggc gattgggact aagtcgtaac ag
+//
+

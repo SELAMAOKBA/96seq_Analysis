@@ -1,0 +1,16 @@
+hit	File_Name	Strain	Query_Sequence_Length	Sequence_accession	Sbjct_Sequence_Length	Sbjct_Description	Identity	Phylum	Sub_Taxa
+1	55II67_A01-26H5.fas	26H5	916	NR_113893	1410	Ensifer adhaerens strain NBRC 100388 16S ribosomal RNA gene, partial sequence	95.52	Proteobacteria	Alphaproteobacteria
+2	55II67_A01-26H5.fas	26H5	916	NR_133053	1388	Ensifer sesbaniae strain CCBAU 65729 16S ribosomal RNA, partial sequence	95.52	Proteobacteria	Alphaproteobacteria
+3	55II67_A01-26H5.fas	26H5	916	NR_042482	1426	Ensifer adhaerens strain LMG 20216 16S ribosomal RNA gene, partial sequence	95.52	Proteobacteria	Alphaproteobacteria
+1	55II67_A02-22F7.fas	22F7	929	NR_025331	1498	Buttiauxella izardii strain S3/2-161 16S ribosomal RNA gene, partial sequence	98.39	Proteobacteria	Gammaproteobacteria
+2	55II67_A02-22F7.fas	22F7	929	NR_024642	1449	Lelliottia amnigena strain JCM1237 16S ribosomal RNA gene, partial sequence	98.39	Proteobacteria	Gammaproteobacteria
+3	55II67_A02-22F7.fas	22F7	929	NR_036919	1497	Buttiauxella noackiae strain NSW 11 16S ribosomal RNA gene, partial sequence	98.17	Proteobacteria	Gammaproteobacteria
+1	55II67_A03-MI.fas	MI	964	NR_026451	1467	Kocuria palustris strain TAGA27 16S ribosomal RNA gene, partial sequence	98.86	Actinobacteria	Micrococcales
+2	55II67_A03-MI.fas	MI	964	NR_132604	1425	Kocuria assamensis strain S9-65 16S ribosomal RNA, partial sequence	98.76	Actinobacteria	Micrococcales
+3	55II67_A03-MI.fas	MI	964	NR_116744	1472	Kocuria atrinae strain P30 16S ribosomal RNA gene, partial sequence	96.27	Actinobacteria	Micrococcales
+1	55II67_A05-36F11.fas	36F11	918	NR_112483	1471	Streptomyces olivochromogenes strain NBRC 3178 16S ribosomal RNA gene, partial sequence	98.04	Actinobacteria	Streptomycetales
+2	55II67_A05-36F11.fas	36F11	918	NR_112356	1470	Streptomyces olivochromogenes strain NBRC 13067 16S ribosomal RNA gene, partial sequence	98.04	Actinobacteria	Streptomycetales
+3	55II67_A05-36F11.fas	36F11	918	NR_025664	1448	Streptomyces olivochromogenes strain DSM 40451 16S ribosomal RNA gene, partial sequence	98.04	Actinobacteria	Streptomycetales
+1	55II67_A06-36H3.fas	36H3	993	NR_041137	1472	Streptomyces mirabilis strain NBRC 13450 16S ribosomal RNA gene, partial sequence	97.99	Actinobacteria	Streptomycetales
+2	55II67_A06-36H3.fas	36H3	993	NR_115357	1448	Streptomyces mirabilis strain CSSP107 16S ribosomal RNA gene, partial sequence	97.99	Actinobacteria	Streptomycetales
+3	55II67_A06-36H3.fas	36H3	993	NR_114494	1466	Streptomyces mirabilis strain ATCC 27447 16S ribosomal RNA gene, partial sequence	97.58	Actinobacteria	Streptomycetales

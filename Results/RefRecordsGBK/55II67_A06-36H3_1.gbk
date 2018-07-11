@@ -1,0 +1,67 @@
+LOCUS       NR_115357               1448 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Streptomyces mirabilis strain CSSP107 16S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   NR_115357
+VERSION     NR_115357.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Streptomyces mirabilis
+  ORGANISM  Streptomyces mirabilis
+            Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+            Streptomyces.
+REFERENCE   1  (bases 1 to 1448)
+  AUTHORS   Goodfellow,M., Labeda,D.P., Liu,Z. and Swings,J.
+  TITLE     Finally a phylogeny for Streptomyces
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1448)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2014) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1448)
+  AUTHORS   Goodfellow,M., Labeda,D.P., Vancanneyt,M., Lanoot,B., Kim,S.,
+            Liu,Z., Chun,J., Ward,A. and Swings,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2005) Microbial Genomics and Bioprocessing, USDA,
+            ARS, National Center for Agricultural Utilization Research, 1815 N.
+            University Street, Peoria, IL 61604, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AY999730:1-1448.
+FEATURES             Location/Qualifiers
+     source          1..1448
+                     /organism="Streptomyces mirabilis"
+                     /mol_type="rRNA"
+                     /strain="CSSP107"
+                     /culture_collection="DSM:40553"
+                     /db_xref="taxon:68239"
+     rRNA            <1..>1448
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 caagtcgaac gatgaagccc ttcggggtgg attagtggcg aacgggtgag taacacgtgg
+       61 gcaatctgcc cttcactctg ggacaagccc tggaaacggg gtctaatacc ggataacacc
+      121 tgcccgggca tccgggtggg ttaaaagctc cggcggtgaa ggatgagccc gcggcctatc
+      181 agcttgttgg tgaggtagtg gctcaccaag gcgacgacgg gtagccggcc tgagagggcg
+      241 accggccaca ctgggactga gacacggccc agactcctac gggaggcagc agtggggaat
+      301 attgcacaat gggcgaaagc ctgatgcagc gacgccgcgt gagggatgac ggccttcggg
+      361 ttgtaaacct ctttcagcag ggaagaagcg aaagtgacgg tacctgcaga agaagcgccg
+      421 gctaactacg tgccagcagc cgcggtaata cgtagggcgc aagcgttgtc cggaattatt
+      481 gggcgtaaag agctcgtagg cggcttgtca cgtcgggtgt gaaagcccgg ggcttaaccc
+      541 cgggtctgca ttcgatacgg gctagctaga gtgtggtagg ggagatcgga attcctggtg
+      601 tagcggtgaa atgcgcagat atcaggagga acaccggtgg cgaaggcgga tctctgggcc
+      661 attactgacg ctgaggagcg aaagcgtggg gagcgaacag gattagatac cctggtagtc
+      721 cacgccgtaa acggtgggaa ctaggtgttg gcgacattcc acgtcgtcgg tgccgcagct
+      781 aacgcattaa gttccccgcc tggggagtac ggccgcaagg ctaaaactca aaggaattga
+      841 cgggggcccg cacaagcagc ggagcatgtg gcttaattcg acgcaacgcg aagaacctta
+      901 ccaaggcttg acatacaccg gaaacggcca gagatggtcg cccccttgtg gtcggtgtac
+      961 aggtggtgca tggctgtcgt cagctcgtgt cgtgagatgt tgggttaagt cccgcaacga
+     1021 gcgcaaccct tgttctgtgt tgccagcatg cccttcgggg tgatggggac tcacaggaga
+     1081 ctgccggggt caactcggag gaaggtgggg acgacgtcaa gtcatcatgc cccttatgtc
+     1141 ttgggctgca cacgtgctac aatggcaggt acaatgagct gcgaagccgt gaggcggagc
+     1201 gaatctcaaa aagcctgtct cagttcggat tggggtctgc aactcgaccc catgaagtcg
+     1261 gagttgctag taatcgcaga tcagcattgc tgcggtgaat acgttcccgg gccttgtaca
+     1321 caccgcccgt cacgtcacga aagtcggtaa cacccgaagc cggtggccca accccttgtg
+     1381 ggagggagct gtcgaaggtg ggactggcga ttgggacgaa gtcgtaacaa ggtagccgta
+     1441 ccggaagg
+//
+

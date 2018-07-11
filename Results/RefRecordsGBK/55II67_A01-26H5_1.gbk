@@ -1,0 +1,69 @@
+LOCUS       NR_133053               1388 bp    rRNA    linear   BCT 02-AUG-2016
+DEFINITION  Ensifer sesbaniae strain CCBAU 65729 16S ribosomal RNA, partial
+            sequence.
+ACCESSION   NR_133053
+VERSION     NR_133053.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Ensifer sesbaniae
+  ORGANISM  Ensifer sesbaniae
+            Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+            Rhizobiaceae; Sinorhizobium/Ensifer group; Ensifer.
+REFERENCE   1  (bases 1 to 1388)
+  AUTHORS   Wang,Y.C., Wang,F., Hou,B.C., Wang,E.T., Chen,W.F., Sui,X.H.,
+            Chen,W.X., Li,Y. and Zhang,Y.B.
+  TITLE     Proposal of Ensifer psoraleae sp. nov., Ensifer sesbaniae sp. nov.,
+            Ensifer morelense comb. nov. and Ensifer americanum comb. nov
+  JOURNAL   Syst. Appl. Microbiol. 36 (7), 467-473 (2013)
+   PUBMED   23759600
+REFERENCE   2  (bases 1 to 1388)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2015) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1388)
+  AUTHORS   Wang,F., Wang,E.T. and Chen,W.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2011) Department of Microbiology, College of
+            Biology, China Agricultural University, Yuanmingyuan Western Road
+            No. 2, Beijing 100193, P.R. China
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to JF834143:1-1388.
+FEATURES             Location/Qualifiers
+     source          1..1388
+                     /organism="Ensifer sesbaniae"
+                     /mol_type="rRNA"
+                     /strain="CCBAU 65729"
+                     /host="Sesbania cannabina"
+                     /culture_collection="CCBAU:65729"
+                     /db_xref="taxon:1214071"
+     rRNA            <1..>1388
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 cacatgcagt cgagcgcccc gcaaggggag cggcagacgg gtgagtaacg cgtgggaatc
+       61 tacccttttc tacggaataa cgcagggaaa cttgtgctaa taccgtataa gccctttggg
+      121 ggaaagattt atcgggaaag gatgagcccg cgttggatta gctagttggt ggggtaaagg
+      181 cctaccaagg cgacgatcca tagctggtct gagaggatga tcagccacat tgggactgag
+      241 acacggccca aactcctacg ggaggcagca gtggggaata ttggacaatg ggcgcaagcc
+      301 tgatccagcc atgccgcgtg agtgatgaag gccctagggt tgtaaagctc tttcaccggt
+      361 gaagataatg acggtaaccg gagaagaagc cccggctaac ttcgtgccag cagccgcggt
+      421 aatacgaagg gggctagcgt tgttcggaat tactgggcgt aaagcgcacg taggcggaca
+      481 tttaagtcag gggtgaaatc ccggggctca accccggaac tgcctttgat actgggtgtc
+      541 tagagtatgg aagaggtgag tggaattccg agtgtagagg tgaaattcgt agatattcgg
+      601 aggaacacca gtggcgaagg cggctcactg gtccattact gacgctgagg tgcgaaagcg
+      661 tggggagcaa acaggattag ataccctggt agtccacgcc gtaaacgatg aatgttagcc
+      721 gtcgggcagt ttactgttcg gtggcgcagc taacgcatta aacattccgc ctggggagta
+      781 cggtcgcaag attaaaactc aaaggaattg acgggggccc gcacaagcgg tggagcatgt
+      841 ggtttaattc gaagcaacgc gcagaacctt accagccctt gacatcccga tcgcggatta
+      901 cggagacgtt ttccttcagt tcggctggat cggagacagg tgctgcatgg ctgtcgtcag
+      961 ctcgtgtcgt gagatgttgg gttaagtccc gcaacgagcg caaccctcgc ccttagttgc
+     1021 cagcatttgg ttgggcactc taaggggact gccggtgata agccgagagg aaggtgggga
+     1081 tgacgtcaag tcctcatggc ccttacgggc tgggctacac acgtgctaca atggtggtga
+     1141 cagtgggcag cgagaccgcg aggtcgagct aatctccaaa agccatctca gttcggattg
+     1201 cactctgcaa ctcgagtgca tgaagttgga atcgctagta atcgcagatc agcatgctgc
+     1261 ggtgaatacg ttcccgggcc ttgtacacac cgcccgtcac accatgggag ttggttctac
+     1321 ccgaaggtag tgcgctaacc gcaaggaggc agctaaccac ggtagggtca gcgactgggg
+     1381 tgaagtcg
+//
+

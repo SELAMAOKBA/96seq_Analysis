@@ -1,0 +1,62 @@
+LOCUS       NR_025664               1448 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Streptomyces olivochromogenes strain DSM 40451 16S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   NR_025664
+VERSION     NR_025664.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Streptomyces olivochromogenes
+  ORGANISM  Streptomyces olivochromogenes
+            Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+            Streptomyces.
+REFERENCE   1  (bases 1 to 1448)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-DEC-2008) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 1448)
+  AUTHORS   Rodriguez,C.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-APR-2002) Agricultural and Environmental Science,
+            University of Newcastle upon Tyne, Queen Victoria Road, Newcastle
+            upon Tyne NE1 7RU, United Kingdom
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AY094370.
+FEATURES             Location/Qualifiers
+     source          1..1448
+                     /organism="Streptomyces olivochromogenes"
+                     /mol_type="rRNA"
+                     /strain="DSM 40451"
+                     /culture_collection="DSM:40451"
+                     /db_xref="taxon:1963"
+     rRNA            <1..>1448
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 caagtcgaac gatgaagccc ttcggggtgg attagtggcg aacgggtgag taacacgtgg
+       61 gcaatctgcc cttcactctg ggacaagccc tggaaacggg gtctaatacc ggataacacc
+      121 tgcccgggca tctgggtggg ttaaaagctc cggcggtgaa ggatgagccc gcggcctatc
+      181 agcttgttgg tgaggtagtg gctcaccaag gcgacgacgg gtagccggcc tgagagggcg
+      241 accggccaca ctgggactga gacacggccc agactcctac gggaggcagc agtggggaat
+      301 attgcacaat gggcgaaagc ctgatgcagc gacgccgcgt gagggatgac ggccttcggg
+      361 ttgtaaacct ctttcagcag ggaagaagcg aaagtgacgg tacctgcaga agaagcgccg
+      421 gctaactacg tgccagcagc cgcggtaata cgtagggcgc aagcgttgtc cggaattatt
+      481 gggcgtaaag agctcgtagg cggcttgtca cgtcgggtgt gaaagcccgg ggcttaaccc
+      541 cgggtctgca ttcgatacgg gctagctaga gtgtggtagg ggagatcgga attcctggtg
+      601 tagcggtgaa atgcgcagat atcaggagga acaccggtgg cgaaggcgga tctctgggcc
+      661 attactgacg ctgaggagcg aaagcgtggg gagcgaacag gattagatac cctggtagtc
+      721 cacgccgtaa acggtgggaa ctaggtgttg gcgacattcc acgtcgtcgg tgccgcagct
+      781 aacgcattaa gttccccgcc tggggagtac ggccgcaagg ctaaaactca aaggaattga
+      841 cgggggcccg cacaagcagc ggagcatgtg gcttaattcg acgcaacgcg aagaacctta
+      901 ccaaggcttg acatacaccg gaaagcatta gagatagtgc cccccttgtg gtcggtgtac
+      961 aggtggtgca tggctgtcgt cagctcgtgt cgtgagatgt tgggttaagt cccgcaacga
+     1021 gcgcaaccct tgttctgtgt tgccagcatg cccttcgggg tgatggggac tcacaggaga
+     1081 ctgccggggt caactcggag gaaggtgggg acgacgtcaa gtcatcatgc cccttatgtc
+     1141 ttgggctgca cacgtgctac aatggcaggt acaatgagct gcgaagccgt gaggcggagc
+     1201 gaatctcaaa aagcctgtct cagttcggat tggggtctgc aactcgaccc catgaagtcg
+     1261 gagttgctag taatcgcaga tcagcattgc tgcggtgaat acgttcccgg gccttgtaca
+     1321 caccgcccgt cacgtcacga aagtcggtaa cacccgaagc cggtggccca accccttgtg
+     1381 ggagggagct gtcgaaggtg ggactggcga ttgggacgaa gtcgtaacaa ggtagccgta
+     1441 ccggaagg
+//
+

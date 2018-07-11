@@ -1,0 +1,68 @@
+LOCUS       NR_025331               1498 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Buttiauxella izardii strain S3/2-161 16S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   NR_025331
+VERSION     NR_025331.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Buttiauxella izardii
+  ORGANISM  Buttiauxella izardii
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Buttiauxella.
+REFERENCE   1  (bases 1 to 1498)
+  AUTHORS   Sproer,C., Mendrock,U., Swiderski,J., Lang,E. and Stackebrandt,E.
+  TITLE     The phylogenetic position of Serratia, Buttiauxella and some other
+            genera of the family Enterobacteriaceae
+  JOURNAL   Int. J. Syst. Bacteriol. 49 (PT 4), 1433-1438 (1999)
+   PUBMED   10555323
+REFERENCE   2  (bases 1 to 1498)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-DEC-2008) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1498)
+  AUTHORS   Sproeer,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-SEP-1998) Sproeer C., Deutsche Sammlung von
+            Mikroorganismen und Zellkulturen, Mascheroder Weg 1B, D-38124
+            Braunschweig, Germany
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AJ233404.
+FEATURES             Location/Qualifiers
+     source          1..1498
+                     /organism="Buttiauxella izardii"
+                     /mol_type="rRNA"
+                     /strain="S3/2-161; DSM 9397"
+                     /culture_collection="DSM:9397"
+                     /db_xref="taxon:82991"
+     rRNA            <1..>1498
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gctcagattg aacgctggcg gcaggcctaa cacatgcaag tcgagcggta gcacagggag
+       61 cttgctcctg ggtgacgagc ggcggacggg tgagtaatgt ctgggaaact gcctgatgga
+      121 gggggataac tactggaaac ggtagctaat accgcataac gtcttcggac caaagagggg
+      181 gaccttcggg cctcttgcca tcagatgtgc ccagatggga ttagctagta ggtggggtaa
+      241 tggctcacct aggcgacgat ccctagctgg tctgagagga tgaccagcca cactggaact
+      301 gagacacggt ccagactcct acgggaggca gcagtgggga atattgcaca atgggcgcaa
+      361 gcctgatgca gccatgccgc gtgtatgaag aaggccttcg ggttgtaaag tactttcagc
+      421 gaggaggaag gcattgtggt taataaccac agtgattgac gttactcgca gaagaagcac
+      481 cggctaactc cgtgccagca gccgcggtaa tacggagggt gcaagcgtta atcggaatta
+      541 ctgggcgtaa agcgcacgca ggcggtctgt caagtcggat gtgaaatccc cgggctcaac
+      601 ctgggaactg cattcgaaac tggcaggcta gagtcttgta gaggggggta gaattccagg
+      661 tgtagcggtg aaatgcgtag agatctggag gaataccggt ggcgaaggcg gccccctgga
+      721 caaagactga cgctcaggtg cgaaagcgtg gggagcaaac aggattagat accctggtag
+      781 tccacgccgt aaacgatgtc gacttggagg ttgttccctt gaggagtggc ttccggagct
+      841 aacgcgttaa gtcgaccgcc tggggagtac ggccgcaagg ttaaaactca aatgaattga
+      901 cgggggcccg cacaagcggt ggagcatgtg gtttaattcg atgcaacgcg aagaacctta
+      961 cctactcttg acatccacgg aatttggcag agatgcctta gtgccttcgg gaaccgtgag
+     1021 acaggtgctg catggctgtc gtcagctcgt gttgtgaaat gttgggttaa gtcccgcaac
+     1081 gagcgcaacc cttatccttt gttgccagcg gttcggccgg gaactcaaag gagactgcca
+     1141 gtgataaact ggaggaaggt ggggatgacg tcaagtcatc atggccctta cgagtagggc
+     1201 tacacacgtg ctacaatggc gcatacaaag agaagcgacc tcgcgagagc aagcggacct
+     1261 cataaagtgc gtcgtagtcc ggatcggagt ctgcaactcg actccgtgaa gtcggaatcg
+     1321 ctagtaatcg tagatcagaa tgctacggtg aatacgttcc cgggccttgt acacaccgcc
+     1381 cgtcacacca tgggagtggg ttgcaaaaga agtaggtagc ttaaccttcg ggagggcgct
+     1441 taccactttg tgattcatga ctggggtgaa gtcgtaacaa ggtaaccgta ggggaacc
+//
+

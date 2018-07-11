@@ -1,0 +1,69 @@
+LOCUS       NR_026451               1467 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Kocuria palustris strain TAGA27 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   NR_026451
+VERSION     NR_026451.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq; 16S rRNA.
+SOURCE      Kocuria palustris
+  ORGANISM  Kocuria palustris
+            Bacteria; Actinobacteria; Micrococcales; Micrococcaceae; Kocuria.
+REFERENCE   1
+  AUTHORS   Kovacs,G., Burghardt,J., Pradella,S., Schumann,P., Stackebrandt,E.
+            and Marialigeti,K.
+  TITLE     Kocuria palustris sp. nov. and Kocuria rhizophila sp. nov.,
+            isolated from the rhizoplane of the narrow-leaved cattail (Typha
+            angustifolia)
+  JOURNAL   Int. J. Syst. Bacteriol. 49 (PT 1), 167-173 (1999)
+   PUBMED   10028258
+REFERENCE   2  (bases 1 to 1467)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-DEC-2008) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1467)
+  AUTHORS   Stackebrandt,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JAN-1998) E. Stackebrandt, DSM-Deutsche Sammlung von
+            Mikroorganism & Zellkulturen GmbH, Mascheroder Weg 1b, 38124
+            Braunschweig, FRG
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from Y16263.
+FEATURES             Location/Qualifiers
+     source          1..1467
+                     /organism="Kocuria palustris"
+                     /mol_type="rRNA"
+                     /strain="TAGA27; DSM 11925"
+                     /culture_collection="DSM:11925"
+                     /db_xref="taxon:71999"
+     rRNA            <1..>1467
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ggcggcgtgc ttaacacatg caagtcgaac gctgaagcac cagcttgctg gtgtggatga
+       61 gtggcgaacg ggtgagtaat acgtgagtaa cctgcccttg actctgggat aagcccggga
+      121 aactgggtct aatactggat gctacatgtc accgcatggt ggtgtgtgga aagggtttac
+      181 tggtcttgga tgggctcacg gcctatcagc ttgttggtga ggtaatggct caccaaggcg
+      241 acgacgggta gccggcctga gagggtgacc ggccacactg ggactgagac acggcccaga
+      301 ctcctacggg aggcagcagt ggggaatatt gcacaatggg cgaaagcctg atgcagcgac
+      361 gccgcgtgag ggatgacggc cttcgggttg taaacctctt tcagcaggga agaagccaca
+      421 agtgacggta cctgcagaag aagcgccggc taactacgtg ccagcagccg cggtaatacg
+      481 tagggcgcaa gcgttgtccg gaattattgg gcgtaaagag ctcgtaggcg gtttgtcgcg
+      541 tctgctgtga aagcccgggg cttaaccccg ggtgtgcagt gggtacgggc agactagagt
+      601 gcagtagggg agactggaat tcctggtgta gcggtggaat gcgcagatat caggaggaac
+      661 accgatggcg aaggcaggtc tctgggctgt tactgacgct gaggagcgaa agcatgggga
+      721 gcgaacagga ttagataccc tggtagtcca tgccgtaaac gttgggcact aggtgtgggg
+      781 gacattccac gttttccgcg ccgtagctaa cgcattaagt gccccgcctg gggagtacgg
+      841 ccgcaaggct aaaactcaaa ggaattgacg ggggcccgca caagcggcgg agcatgcgga
+      901 ttaattcgat gcaacgcgaa gaaccttacc aaggcttgac atataccgga tcgttccaga
+      961 gatggttctt cccctttggg gtcggtatac aggtggtgca tggttgtcgt cagctcgtgt
+     1021 cgtgagatgt tgggttaagt cccgcaacga gcgcaaccct cgttccatgt tgccagcacg
+     1081 tgatggtggg gactcatggg agactgccgg ggtcaactcg gaggaaggtg gggatgacgt
+     1141 caaatcatca tgccccttat gtcttgggct tcacgcatgc tacaatggcc ggtacaaagg
+     1201 gttgcgatac tgtgaggtgg agctaatccc aaaaagccgg tctcagttcg gattgaggtc
+     1261 tgcaactcga cctcatgaag tcggagtcgc tagtaatcgc agatcagcaa cgctgcggtg
+     1321 aatacgttcc cgggccttgt acacaccgcc cgtcaagtca cgaaagtcgg taacacccga
+     1381 agccggtggc ccaacccttg tggagggagc cgtcgaaggt gggactggcg attgggacta
+     1441 agtcgtaaca aggtagccgt accggaa
+//
+

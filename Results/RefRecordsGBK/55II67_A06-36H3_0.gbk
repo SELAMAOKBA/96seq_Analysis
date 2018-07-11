@@ -1,0 +1,72 @@
+LOCUS       NR_041137               1472 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Streptomyces mirabilis strain NBRC 13450 16S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   NR_041137
+VERSION     NR_041137.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Streptomyces mirabilis
+  ORGANISM  Streptomyces mirabilis
+            Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+            Streptomyces.
+REFERENCE   1
+  AUTHORS   Tamura,T., Oguchi,A., Kikuchi,T., Kikuchi,H., Nishii,T., Tsuji,K.,
+            Yamaguchi,Y., Tase,A., Takahashi,M., Sakane,T., Suzuki,K. and
+            Hatano,K.
+  TITLE     Phylogenic analysis of the genus Streptomyces
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1472)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2011) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1472)
+  AUTHORS   Tamura,T., Oguchi,A., Kikuchi,T., Kikuchi,H., Nishii,T., Tsuji,K.,
+            Yamaguchi,Y., Tase,A., Takahashi,M., Sakane,T., Suzuki,K. and
+            Hatano,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2004) Tomohiko Tamura, National Institute of
+            Technology and Evaluation, Department of Biotechnology; 2-5-8,
+            Kazusakamatari, Kisarazu, Chiba 292-0818, Japan
+            (E-mail:tamura-tomohiko@nite.go.jp, Tel:81-438-20-5763,
+            Fax:81-438-52-2329)
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AB184412.
+FEATURES             Location/Qualifiers
+     source          1..1472
+                     /organism="Streptomyces mirabilis"
+                     /mol_type="rRNA"
+                     /strain="NBRC 13450"
+                     /culture_collection="NBRC:13450"
+                     /db_xref="taxon:68239"
+     rRNA            <1..>1472
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 acgaacgctg gcggcgtgct taacacatgc aagtcgaacg atgaagccct tcggggtgga
+       61 ttagtggcga acgggtgagt aacacgtggg caatctgccc ttcactctgg gacaagccct
+      121 ggaaacgggg tctaataccg gataacacct gcccgggcat ccgggtgggt taaaagctcc
+      181 ggcggtgaag gatgagcccg cggcctatca gcttgttggt gaggtagtgg ctcaccaagg
+      241 cgacgacggg tagccggcct gagagggcga ccggccacac tgggactgag acacggccca
+      301 gactcctacg ggaggcagca gtggggaata ttgcacaatg ggcgaaagcc tgatgcagcg
+      361 acgccgcgtg agggatgacg gccttcgggt tgtaaacctc tttcagcagg gaagaagcga
+      421 aagtgacggt acctgcagaa gaagcgccgg ctaactacgt gccagcagcc gcggtaatac
+      481 gtagggcgca agcgttgtcc ggaattattg ggcgtaaaga gctcgtaggc ggcttgtcac
+      541 gtcgggtgtg aaagcccggg gcttaacccc gggtctgcat tcgatacggg ctagctagag
+      601 tgtggtaggg gagatcggaa ttcctggtgt agcggtgaaa tgcgcagata tcaggaggaa
+      661 caccggtggc gaaggcggat ctctgggcca ttactgacgc tgaggagcga aagcgtgggg
+      721 agcgaacagg attagatacc ctggtagtcc acgccgtaaa cggtgggaac taggtgttgg
+      781 cgacattcca cgtcgtcggt gccgcagcta acgcattaag ttccccgcct ggggagtacg
+      841 gccgcaaggc taaaactcaa aggaattgac gggggcccgc acaagcagcg gagcatgtgg
+      901 cttaattcga cgcaacgcga agaaccttac caaggcttga catacaccgg aaacggccag
+      961 agatggtcgc ccccttgtgg tcggtgtaca ggtggtgcat ggctgtcgtc agctcgtgtc
+     1021 gtgagatgtt gggttaagtc ccgcaacgag cgcaaccctt gttctgtgtt gccagcatgc
+     1081 ccttcggggt gatggggact cacaggagac tgccggggtc aactcggagg aaggtgggga
+     1141 cgacgtcaag tcatcatgcc ccttatgtct tgggctgcac acgtgctaca atggcaggta
+     1201 caatgagctg cgaagccgtg aggcggagcg aatctcaaaa agcctgtctc agttcggatt
+     1261 ggggtctgca actcgacccc atgaagtcgg agttgctagt aatcgcagat cagcattgct
+     1321 gcggtgaata cgttcccggg ccttgtacac accgcccgtc acgtcacgaa agtcggtaac
+     1381 acccgaagcc ggtggcccaa ccccttgtgg gagggagctg tcgaaggtgg gactggcgat
+     1441 tgggacgaag tcgtaacaag gtagccgtac cg
+//
+

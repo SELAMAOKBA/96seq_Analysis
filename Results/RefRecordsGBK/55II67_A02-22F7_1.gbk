@@ -1,0 +1,67 @@
+LOCUS       NR_024642               1449 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Lelliottia amnigena strain JCM1237 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   NR_024642
+VERSION     NR_024642.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Lelliottia amnigena
+  ORGANISM  Lelliottia amnigena
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Lelliottia.
+REFERENCE   1
+  AUTHORS   Harada,H., Oyaizu,H. and Ishikawa,H.
+  TITLE     A consideration about the origin of aphid intracellular symbiont in
+            connection with gut bacterial flora
+  JOURNAL   J. Gen. Appl. Microbiol. 42, 17-26 (1996)
+REFERENCE   2  (bases 1 to 1449)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-DEC-2008) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1449)
+  AUTHORS   Harada,H., Oyaizu,H. and Ishikawa,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-1997) Contact:Hosami Harada Graduate School of
+            Science, University of Tokyo, Department of Biological Sciences;
+            Hongo, Bunkyo-ku, Tokyo 113, Japan, Bunkyo-ku, Tokyo 113, Japan
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AB004749.
+FEATURES             Location/Qualifiers
+     source          1..1449
+                     /organism="Lelliottia amnigena"
+                     /mol_type="rRNA"
+                     /strain="JCM1237"
+                     /culture_collection="JCM:1237"
+                     /db_xref="taxon:61646"
+     rRNA            <1..>1449
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 acgctggcgg caggcctaac acatgcaagt cgagcggtag cacagagagc ttgctctcgg
+       61 gtgacgagcg gcggacgggt gagtaatgtc tgggaaactg cctgatggag ggggataact
+      121 actggaaacg gtagctaata ccgcataang tcgcaagacc aaagaggggg accttcgggc
+      181 ctcttgccat cagatgtgcc cagatgggat tagctagtag gtggggtaat ggctcaccta
+      241 ggcgacgatc cctagctggt ctgagaggat gaccagccac actggaactg agacacggtc
+      301 cagactccta cgggaggcag cagtggggaa tattgcacaa tgggcgcaag cctgatgcag
+      361 ccatgccgcg tgtatgaaga aggccttcgg gttgtaaagt actttcagcg aggaggaagg
+      421 cattgtggtt aataaccaca gtgattgacg ttactcgcag aagaagcacc ggctaactcc
+      481 gtgccagcag ccgcggtaat acggagggtg caagcgttaa tcggaattac tgggcgtaaa
+      541 gcgcacgcag gcggtctgtc aagtcggatg tgaaatcccc gggctcaacc tgggaactgc
+      601 attcgaaact ggcaggctag agtcttgtag aggggggtag aattccaggt gtagcggtga
+      661 aatgcgtaga gatctggagg aataccggtg gcgaaggcgg ccccctggac aaagactgac
+      721 gctcaggtgc gaaagcgtgg ggagcaaaca ggattagata ccctggtagt ccacgccgta
+      781 aacgatgtcg acttggaggt tgttcccttg aggagtggct tccggagcta acgcgttaag
+      841 tcgaccgcct ggggagtacg gccgcaaggt taaaactcaa atgaattgac gggggcccgc
+      901 acaagcggtg gagcatgtgg tttaattcga tgcaacgcga agaaccttac ctactcttga
+      961 catccagaga acttagcaga gatgctttgg tgccttcggg aactctgaga caggtgctgc
+     1021 atggctgtcg tcagctcgtg ttgtgaaatg ttgggttaag tcccgcaacg agcgcaaccc
+     1081 ttatcctttg ttgccagcgg ttcggccggg aactcaaagg agactgccag tgataaactg
+     1141 gaggaaggtg gggatgacgt caagtcatca tggcccttac gagtagggct acacacgtgc
+     1201 tacaatggca tatacaaaga gaagcgacct cgcgagagca agcggacctc acaaagtatg
+     1261 tcgtagtccg gatcggagtc tgcaactcga ctccgtgaag tcggaatcgc tagtaatcgt
+     1321 agatcagaat gctacggtga atacgttccc gggccttgta cacaccgccc gtcacaccat
+     1381 gggagtgggt tgcaaaagaa gtaggtagct taaccttcgg gagggcgctt taccactttg
+     1441 tgattcatg
+//
+

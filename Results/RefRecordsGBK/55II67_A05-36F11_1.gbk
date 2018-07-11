@@ -1,0 +1,72 @@
+LOCUS       NR_112356               1470 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Streptomyces olivochromogenes strain NBRC 13067 16S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   NR_112356
+VERSION     NR_112356.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Streptomyces olivochromogenes
+  ORGANISM  Streptomyces olivochromogenes
+            Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+            Streptomyces.
+REFERENCE   1
+  AUTHORS   Tamura,T., Oguchi,A., Kikuchi,T., Kikuchi,H., Nishii,T., Tsuji,K.,
+            Yamaguchi,Y., Tase,A., Takahashi,M., Sakane,T., Suzuki,K. and
+            Hatano,K.
+  TITLE     Phylogenic analysis of the genus Streptomyces
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1470)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2014) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1470)
+  AUTHORS   Tamura,T., Oguchi,A., Kikuchi,T., Kikuchi,H., Nishii,T., Tsuji,K.,
+            Yamaguchi,Y., Tase,A., Takahashi,M., Sakane,T., Suzuki,K. and
+            Hatano,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2004) Tomohiko Tamura, National Institute of
+            Technology and Evaluation, Department of Biotechnology; 2-5-8,
+            Kazusakamatari, Kisarazu, Chiba 292-0818, Japan
+            (E-mail:tamura-tomohiko@nite.go.jp, Tel:81-438-20-5763,
+            Fax:81-438-52-2329)
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AB184289:1-1470.
+FEATURES             Location/Qualifiers
+     source          1..1470
+                     /organism="Streptomyces olivochromogenes"
+                     /mol_type="rRNA"
+                     /strain="NBRC 13067"
+                     /culture_collection="NBRC:13067"
+                     /db_xref="taxon:1963"
+     rRNA            <1..>1470
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aacgctggcg gcgtgcttaa cacatgcaag tcgaacgatg aagcccttcg gggtggatta
+       61 gtggcgaacg ggtgagtaac acgtgggcaa tctgcccttc actctgggac aagccctgga
+      121 aacggggtct aataccggat aacacctgcc cgggcatctg ggtgggttaa aagctccggc
+      181 ggtgaaggat gagcccgcgg cctatcagct tgttggtgag gtagtggctc accaaggcga
+      241 cgacgggtag ccggcctgag agggcgaccg gccacactgg gactgagaca cggcccagac
+      301 tcctacggga ggcagcagtg gggaatattg cacaatgggc gaaagcctga tgcagcgacg
+      361 ccgcgtgagg gatgacggcc ttcgggttgt aaacctcttt cagcagggaa gaagcgaaag
+      421 tgacggtacc tgcagaagaa gcgccggcta actacgtgcc agcagccgcg gtaatacgta
+      481 gggcgcaagc gttgtccgga attattgggc gtaaagagct cgtaggcggc ttgtcacgtc
+      541 gggtgtgaaa gcccggggct taaccccggg tctgcattcg atacgggcta gctagagtgt
+      601 ggtaggggag atcggaattc ctggtgtagc ggtgaaatgc gcagatatca ggaggaacac
+      661 cggtggcgaa ggcggatctc tgggccatta ctgacgctga ggagcgaaag cgtggggagc
+      721 gaacaggatt agataccctg gtagtccacg ccgtaaacgg tgggaactag gtgttggcga
+      781 cattccacgt cgtcggtgcc gcagctaacg cattaagttc cccgcctggg gagtacggcc
+      841 gcaaggctaa aactcaaagg aattgacggg ggcccgcaca agcagcggag catgtggctt
+      901 aattcgacgc aacgcgaaga accttaccaa ggcttgacat acaccggaaa gcattagaga
+      961 tagtgccccc cttgtggtcg gtgtacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg
+     1021 agatgttggg ttaagtcccg caacgagcgc aacccttgtt ctgtgttgcc agcatgccct
+     1081 tcggggtgat ggggactcac aggagactgc cggggtcaac tcggaggaag gtggggacga
+     1141 cgtcaagtca tcatgcccct tatgtcttgg gctgcacacg tgctacaatg gcaggtacaa
+     1201 tgagctgcga agccgtgagg cggagcgaat ctcaaaaagc ctgtctcagt tcggattggg
+     1261 gtctgcaact cgaccccatg aagtcggagt tgctagtaat cgcagatcag cattgctgcg
+     1321 gtgaatacgt tcccgggcct tgtacacacc gcccgtcacg tcacgaaagt cggtaacacc
+     1381 cgaagccggt ggcccaaccc cttgtgggag ggagctgtcg aaggtgggac tggcgattgg
+     1441 gacgaagtcg taacaaggta gccgtaccgg
+//
+

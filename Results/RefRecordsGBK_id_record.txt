@@ -1,0 +1,9 @@
+Alphaproteobacteria
+NR_113893.1
+Gammaproteobacteria
+NR_025331.1
+Micrococcales
+NR_026451.1
+Streptomycetales
+NR_112483.1
+NR_041137.1

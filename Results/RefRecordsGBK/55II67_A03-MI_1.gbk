@@ -1,0 +1,65 @@
+LOCUS       NR_132604               1425 bp    rRNA    linear   BCT 26-AUG-2015
+DEFINITION  Kocuria assamensis strain S9-65 16S ribosomal RNA, partial
+            sequence.
+ACCESSION   NR_132604
+VERSION     NR_132604.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Kocuria assamensis
+  ORGANISM  Kocuria assamensis
+            Bacteria; Actinobacteria; Micrococcales; Micrococcaceae; Kocuria.
+REFERENCE   1  (bases 1 to 1425)
+  AUTHORS   Kaur,C., Kaur,I., Raichand,R., Bora,T.C. and Mayilraj,S.
+  TITLE     Description of a novel actinobacterium Kocuria assamensis sp. nov.,
+            isolated from a water sample collected from the river Brahmaputra,
+            Assam, India
+  JOURNAL   Antonie Van Leeuwenhoek 99 (3), 721-726 (2011)
+   PUBMED   21234681
+REFERENCE   2  (bases 1 to 1425)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-AUG-2015) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1425)
+  AUTHORS   Mayilraj,S., Chandandeep,K., Ishwinder,K. and Suresh,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2010) MTCC, Institute of Microbial Technology,
+            Sector 39-A, Chandigarh, UT 160036, India
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to HQ018931:1-1425.
+FEATURES             Location/Qualifiers
+     source          1..1425
+                     /organism="Kocuria assamensis"
+                     /mol_type="rRNA"
+                     /strain="S9-65"
+                     /db_xref="taxon:876450"
+     rRNA            <1..>1425
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gccatcgcgt gctaccatgc gagtcgagcg ctgaagcacc agcttgctgg tgtggatgag
+       61 tggcgaacgg gtgagtaata cgtgagtaac ctgcccttga ctctgggata agcccgggaa
+      121 actgggtcta atactggatg ctacatgtca ccgcatggtg gtgtgtggaa agggtttact
+      181 ggtcttggat gggctcacgg cctatcagct tgttggtgag gtaatggctc accaaggcga
+      241 cgacgggtag ccggcctgag agggtgaccg gccacactgg gactgagaca cggcccagac
+      301 tcctacggga ggcagcagtg gggaatattg cacaatgggc gaaagcctga tgcagcgacg
+      361 ccgcgtgagg gatgacggcc ttcgggttgt aaacctcttt cagcagggaa gaagccacaa
+      421 gtgacggtac ctgcagaaga agcgccggct aactacgtgc cagcagcccg cggtaatacg
+      481 tagggcgcaa gcgttgtccg gaattattgg gcgtaaagag ctcgtaggcg gtttgtcgcg
+      541 tctgctgtga aagcccgggg cttaaccccg ggtgtgcagt gggtacgggc agactagagt
+      601 gcagtagggg agactggaat tcctggtgta gcggtggaat gcgcagatat caggaggaac
+      661 accgatggcg aaggcaggtc tctgggctgt tactgacgct gaggagcgaa agcatgggga
+      721 gcgaacagga ttagataccc tggtagtcca tgccgtaaac gttgggcact aggtgtgggg
+      781 gacattccac gttttccgcg ccgtagctaa cgcattaagt gccccgcctg gggagtacgg
+      841 ccgcaaggct aaaactcaaa ggaattgacg ggggcccgca caagcggcgg agcatgcgga
+      901 ttaattcgat gcaacgcgaa gaaccttacc aaggcttgac atataccgga tcgttccaga
+      961 gatggttctt cccctttggg gtcggtatac aggtggtgca tggttgtcgt cagctcgtgt
+     1021 cgtgagatgt tgggttaagt cccgcaacga gcgcaaccct cgttccatgt tgccagcacg
+     1081 tgatggtggg gactcatggg agactgccgg ggtcaactcg gaggaaggtg gggatgacgt
+     1141 caaatcatca tgccccttat gtcttgggct tcacgcatgc tacaatggcc ggtacaaagg
+     1201 gttgcgatac tgtgaggtgg agctaatccc aaaaagccgg tctcagttcg gattgaggtc
+     1261 tgcaactcga cctcatgaag tcggagtcgc tagtaatcgc agatcagcaa cgctgcggtg
+     1321 aatacgttcc cgggccttgt acacaccgcc cgtcaagtca cgaaagtcgg ttacacccga
+     1381 agccggtgcc caacccttgt ggagggagcc gtcgaaggtg gaccg
+//
+

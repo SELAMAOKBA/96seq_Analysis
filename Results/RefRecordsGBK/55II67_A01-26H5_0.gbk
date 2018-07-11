@@ -1,0 +1,68 @@
+LOCUS       NR_113893               1410 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Ensifer adhaerens strain NBRC 100388 16S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   NR_113893
+VERSION     NR_113893.1
+DBLINK      Project: 33175
+            BioProject: PRJNA33175
+KEYWORDS    RefSeq.
+SOURCE      Ensifer adhaerens (Sinorhizobium morelense)
+  ORGANISM  Ensifer adhaerens
+            Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+            Rhizobiaceae; Sinorhizobium/Ensifer group; Ensifer.
+REFERENCE   1
+  AUTHORS   Nakagawa,Y., Muramatsu,Y., Miyashita,M., Sugimoto,M., Yoshino,M.
+            and Kamakura,Y.
+  TITLE     NITE Biological Resource Center (NBRC)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1410)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2014) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1410)
+  AUTHORS   Nakagawa,Y., Muramatsu,Y., Miyashita,M. and Suzuki,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-NOV-2011) Contact:Mika Miyashita National Institute
+            of Technology and Evaluation, NITE Biological Resource Center
+            (NBRC); Kazusakamatari, Kisarazu, Chiba 292-0818, Japan URL
+            :http://www.nbrc.nite.go.jp/
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AB681163:1-1410.
+FEATURES             Location/Qualifiers
+     source          1..1410
+                     /organism="Ensifer adhaerens"
+                     /mol_type="rRNA"
+                     /strain="NBRC 100388"
+                     /culture_collection="NBRC:100388"
+                     /db_xref="NBRC:100388"
+                     /db_xref="taxon:106592"
+     rRNA            <1..>1410
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aacgaacgct ggcggcaggc ttaacacatg caagtcgagc gccccgcaag gggagcggca
+       61 gacgggtgag taacgcgtgg gaatctaccc ttttctacgg aataacgcag ggaaacttgt
+      121 gctaataccg tatacgccct tcgggggaaa gatttatcgg gaaaggatga gcccgcgttg
+      181 gattagctag ttggtggggt aaaggcctac caaggcgacg atccatagct ggtctgagag
+      241 gatgatcagc cacattggga ctgagacacg gcccaaactc ctacgggagg cagcagtggg
+      301 gaatattgga caatgggcgc aagcctgatc cagccatgcc gcgtgagtga tgaaggccct
+      361 agggttgtaa agctctttca ccggtgaaga taatgacggt aaccggagaa gaagccccgg
+      421 ctaacttcgt gccagcagcc gcggtaatac gaagggggct agcgttgttc ggaattactg
+      481 ggcgtaaagc gcacgtaggc ggacatttaa gtcaggggtg aaatcccggg gctcaacccc
+      541 ggaactgcct ttgatactgg gtgtctagag tatggaagag gtgagtggaa ttccgagtgt
+      601 agaggtgaaa ttcgtagata ttcggaggaa caccagtggc gaaggcggct cactggtcca
+      661 ttactgacgc tgaggtgcga aagcgtgggg agcaaacagg attagatacc ctggtagtcc
+      721 acgccgtaaa cgatgaatgt tagccgtcgg gcagtttact gttcggtggc gcagctaacg
+      781 cattaaacat tccgcctggg gagtacggtc gcaagattaa aactcaaagg aattgacggg
+      841 ggcccgcaca agcggtggag catgtggttt aattcgaagc aacgcgcaga accttaccag
+      901 cccttgacat cccgatcgcg gattacggag acgttttcct tcagttcggc tggatcggag
+      961 acaggtgctg catggctgtc gtcagctcgt gtcgtgagat gttgggttaa gtcccgcaac
+     1021 gagcgcaacc ctcgccctta gttgccagca tttagttggg cactctaagg ggactgccgg
+     1081 tgataagccg agaggaaggt ggggatgacg tcaagtcctc atggccctta cgggctgggc
+     1141 tacacacgtg ctacaatggt ggtgacagtg ggcagcgaga ccgcgaggtc gagctaatct
+     1201 ccaaaagcca tctcagttcg gattgcactc tgcaactcga gtgcatgaag ttggaatcgc
+     1261 tagtaatcgc agatcagcat gctgcggtga atacgttccc gggccttgta cacaccgccc
+     1321 gtcacaccat gggagttggt tctacccgaa ggtagtgcgc taaccgcaag gaggcagcta
+     1381 accacggtag ggtcagcgac tggggtgaag
+//
+
