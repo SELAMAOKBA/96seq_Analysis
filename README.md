@@ -6,7 +6,7 @@ This pipeline is created to help analysis sequences retrieved from 96 plate sequ
 Sequencing was performed by GATC Biotech Lightrun barcode service.
 The pipeline needs python 2.7.x and the package Biopython 1.6 to run. The scripts were tested under windows 7 environment, Python 2.7.13 and Biopython 1.69.
 the pipeline requires also raw files of sequenceing in "fasta" format. Files should be put in "raw" named folder in the same directory as the scripts. 
-in addition,"table.txt", matrix 12*8 (tab: separator) file is used to correct plate well(sequence) with strain code. 
+in addition,"table.txt", matrix 12*8 (tab: separator) file is used to link plate well(sequence) with strain code. 
 all results are saved in "Results" folder.    
 
 1-attribution:Attribute strain's code to sequences (need table.txt and sequences in "raw" folder ),
