@@ -8,22 +8,22 @@ the pipeline requires also raw files of sequenceing in "fasta" format. Files sho
 in addition,"table.txt", matrix 12*8 (tab: separator) file is used to link plate well(sequence) with strain code. 
 all results are saved in "Results" folder.    
 
-1-attribution:Attribute strain's code to sequences (need table.txt and sequences in "raw" folder ),
-#           	rewrite the fasta files with Country and strain code in sequence head.
+1-attribution:Attributes strain's code to sequences (need table.txt and sequences in "raw" folder ),
+#           	rewrites the fasta files with Country and strain code in sequence head.
 #           	"file name" is modified as as the original "file name-strains code".
 
-2-Blast_Seq: blast sequences and retrieve the three first hit sequences as gb files in
+2-Blast_Seq: blasts sequences and retrieves the three first hit sequences as gb files in
 #           	"RefRecordsGBK\data" folder
 
-3-Phyl_file: Divide strains and references sequences (converted to fasta type) into folders
+3-Phyl_file: divides strains and references sequences (converted to fasta type) into folders
 #           	where each folder's name represents a taxonomic group
 
-4-RefRecordsGBK_id_record: pick up all taxonomic groups and the corresponding accession numbers from references strains 
+4-RefRecordsGBK_id_record: picks up all taxonomic groups and the corresponding accession numbers from references strains 
 #		and save them in "RefRecordsGBK_id_record.txt" file
 
 5-genus_VennDIS: script used to retrieve genera for different techniques
 
-6-NCBI_reg:  create sequences registration ncbi source_modifiers.tsv file
+6-NCBI_reg:  creates sequences registration ncbi source_modifiers.tsv file
 
 
 licence and citation:
