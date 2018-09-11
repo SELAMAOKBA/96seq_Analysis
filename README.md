@@ -9,7 +9,7 @@ the pipeline requires also raw files of sequenceing in "fasta" format. Files sho
 in addition,"table.txt", matrix 12*8 (tab: separator) file is used to link plate well(sequence) with strain code. 
 all results are saved in "Results" folder.    
 
-1-attribution:Attribute strain's code to sequences (need table.txt and sequences in "raw" folder ),
+1-attribution:Attribute strain's code to sequence (need table.txt and sequences in "raw" folder ),
           	 rewrite the fasta files with Country and strain code in sequence head.
            	"file name" is modified as as the original "file name-strains code".
 
